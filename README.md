@@ -1,4 +1,4 @@
-# Segundo trabalho da matéria de Redes de computadores 1
+# Trabalho 2 - Redes de Computadores 1
 Este repositório contém o projeto prático para a disciplina de Redes 1. Na realização deste trabalho, os participantes serão desafiados a configurar dispositivos em uma rede mista IPv4/IPv6. As principais tarefas incluem a configuração de roteadores, atribuição de endereços IPv4 e IPv6 a hosts em três LANs distintas, bem como a ativação do gerenciamento remoto via Telnet nos switches.
 
 ## Tarefas a serem Realizadas
